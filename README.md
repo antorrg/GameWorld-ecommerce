@@ -17,31 +17,31 @@ Somos estudiantes de SoyHenry, del grupo cuatro (4) de Proyecto Final, de la coh
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 20px;">
     <div style="text-align: center;">
         <h3>Denis Piña</h3>
-        <img src="./api/Data/imgs/desktopR&M.jpg" alt="Denis Piña" style="max-width: 12.5rem;">
+        <img src="./api/Data/imgs/desktopR&M.jpg" alt="Denis Piña" style="max-width: 10rem;">
     </div>
     <div style="text-align: center;">
         <h3>Alexander Franco</h3>
-        <img src="./api/Data/imgs/alexander-franco2.jpg" alt="Alexander Franco" style="max-width: 12.5rem;">
+        <img src="./api/Data/imgs/alexander-franco2.jpg" alt="Alexander Franco" style="max-width: 10rem;">
     </div>
     <div style="text-align: center;">
         <h3>Antonio Rodriguez</h3>
-        <img src="./api/Data/imgs/antonio-rodriguez2.jpg" alt="Antonio Rodriguez" style="max-width: 12.5rem;">
+        <img src="./api/Data/imgs/antonio-rodriguez2.jpg" alt="Antonio Rodriguez" style="max-width: 10rem;">
     </div>
     <div style="text-align: center;">
         <h3>Eduardo Abrego</h3>
-        <img src="./api/Data/imgs/eduardo-abrego2.jpg" alt="Eduardo Abrego" style="max-width: 12.5rem;">
+        <img src="./api/Data/imgs/eduardo-abrego2.jpg" alt="Eduardo Abrego" style="max-width: 10rem;">
     </div>
     <div style="text-align: center;">
         <h3>Lautaro Bunkowsky</h3>
-        <img src="./api/Data/imgs/lautaro-bunkowsky2.jpg" alt="Lautaro Bunkowsky" style="max-width: 12.5rem;">
+        <img src="./api/Data/imgs/lautaro-bunkowsky2.jpg" alt="Lautaro Bunkowsky" style="max-width: 10rem;">
     </div>
     <div style="text-align: center;">
         <h3>Victor del Castillo</h3>
-        <img src="./api/Data/imgs/victor-del-castillo2.jpg" alt="Victor del Castillo" style="max-width: 12.5rem;">
+        <img src="./api/Data/imgs/victor-del-castillo2.jpg" alt="Victor del Castillo" style="max-width: 10rem;">
     </div>
     <div style="text-align: center;">
         <h3>Vladimir Esquivel</h3>
-        <img src="./api/Data/imgs/vladimir-esquivel2.jpg" alt="Vladimir Esquivel" style="max-width: 12.5rem;">
+        <img src="./api/Data/imgs/vladimir-esquivel2.jpg" alt="Vladimir Esquivel" style="max-width: 10rem;">
     </div>
 </div>
 <hr/>

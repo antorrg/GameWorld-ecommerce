@@ -6,7 +6,7 @@ El mismo fue realizado bajo la metodología "Scrum".
 ## Esta fue nuestra presentación:
 En la foto se encuentran tambien nuestro "Scrum Master" Daniel Briceño, y nuestro "Product Owner" Genaro Bercini.
 <br/>
-<img src="./api/Data/imgs/presentacion pf.jpg" alt="Presentación" style="max-width: 10rem;">
+<img src="./api/Data/imgs/presentacion pf.jpg" alt="Presentación" style="max-width: 50px;">
 
 # Acerca de nosotros:
 Somos estudiantes de SoyHenry, del grupo cuatro (4) de Proyecto Final, de la cohorte PT14b, este es nuestro proyecto entregado el día 15/12/2023.

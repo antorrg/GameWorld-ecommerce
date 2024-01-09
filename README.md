@@ -14,10 +14,10 @@ Somos estudiantes de SoyHenry, del grupo cuatro (4) de Proyecto Final, de la coh
 
 ## Integrantes: 
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); grid-gap: 6rem;">
     <div style="text-align: center;">
         <h3>Denis Piña</h3>
-        <img src="./api/Data/imgs/desktopR&M.jpg" alt="Denis Piña" style="max-width: 80px;">
+        <img src="./api/Data/imgs/desktopR&M.jpg" alt="Denis Piña" style="max-width: 6rem;">
     </div>
     <div style="text-align: center;">
         <h3>Alexander Franco</h3>
